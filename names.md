@@ -1,7 +1,3 @@
-# Clean Code notes
-
-Notes from the Clean Code video series by Robert C. Martin.
-
 # Names
 
 Names should communicate. They are not for the convenience of the *writer* of
